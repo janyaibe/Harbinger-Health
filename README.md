@@ -1,5 +1,5 @@
 # Harbinger-Health
-This is a repository hosting template code for the data ingestion processes for a project with Harbinger health where the organization will be taking there collected healthcare (HL7) and clinical data from.
+This is a repository hosting template code for the data ingestion processes for a project with Harbinger health where the organization will be taking there collected healthcare (HL7) and clinical data and moving it to another database platform to maintain GxP and other health data compliance.
 
 # Harbinger Health - Clinical Data to OMOP CDM Pipeline
 
